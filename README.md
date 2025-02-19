@@ -38,12 +38,3 @@ Different versions of the [MovieLens](https://grouplens.org/datasets/movielens/)
 **Libraries**
 - [Tensorflow Ranking (TFR)](https://github.com/tensorflow/ranking)
 - [TensorFlow Recommenders (TFRS)](https://github.com/tensorflow/recommenders)
-
-**Codes**
-- [xei/recommender-system-tutorial](https://github.com/xei/recommender-system-tutorial)
-
-## Contributions
-Contributions are welcome and greatly appreciated! If you have an idea for improvement, or if you find a bug, feel free to contribute by opening an [issue](https://github.com/keivanipchihagh/multi-stage-two-tower-recommender/issues) or a [pull request](https://github.com/keivanipchihagh/multi-stage-two-tower-recommender/pulls).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
