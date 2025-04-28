@@ -1,5 +1,4 @@
-# 
-Multistage-Two-Tower-Model-for-Recommendation-System
+# Multistage-Two-Tower-Model-for-Recommendation-System
 A multi-stage movie recommendation system inspired by YouTube’s Two-Tower architecture, built to deliver scalable and production-like recommendation pipelines.
 ## Getting Started
 ### Installation
