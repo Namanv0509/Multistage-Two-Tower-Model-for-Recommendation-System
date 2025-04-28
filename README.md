@@ -1,6 +1,6 @@
-# Multi-Stage Two-Tower Recommender
-A multi-stage movie recommendation system using YouTube's Tow-Tower architecture.
-
+# 
+Multistage-Two-Tower-Model-for-Recommendation-System
+A multi-stage movie recommendation system inspired by YouTube’s Two-Tower architecture, built to deliver scalable and production-like recommendation pipelines.
 ## Getting Started
 ### Installation
 To set up the virtual environment and install the necessary dependencies, run the following command:
